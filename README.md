@@ -1,5 +1,5 @@
 
-    Hi Welcome to my Hall Booking API Task. Consider this as a complete guide for the same.
+ 
 
 I have completed the hall booking task in node JS , here is a documentaion for api
 
